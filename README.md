@@ -1,86 +1,117 @@
-<h2 align="center">Hi there 👋! I'm Roffin Jason N — a FullStack Developer from 🇮🇳 India.</h2>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Roffin7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Roffin7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,29&height=300&section=header&text=Roffin%20Jason%20N&fontSize=90&fontAlignY=38&desc=FullStack%20Developer%20from%20India%20🇮🇳&descAlignY=60&animation=twinkling"/>
 </div>
-
-###
-
-<img align="right" height="200" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczMTE0NDksIm5iZiI6MTc0NzMxMTE0OSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDEyMTIyOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhNTY1Mzc3NmJhMDNmMjVhZDcxMTZmNzZmOWIxNGUzYjEwN2U3OGRkNTZhNTQ3NjNkOWVlYmYyZDUzYTRmZDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2oCw17sWK1W1tS_kFkK8kNc322BGozAt5aGLI-PXImQ"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55" alt="flutter logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="55" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="55" alt="angularjs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="mongodb logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="55" alt="sqlalchemy logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55" alt="azure logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="55" alt="amazonwebservices logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="55" alt="flask logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" alt="spring logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" alt="docker logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="55" alt="jupyter logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="55" alt="androidstudio logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="55" alt="canva logo"  />
+<div align="center">
+  <a href="https://github.com/Roffin7">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=6C63FF&center=true&vCenter=true&width=800&height=100&lines=Full-Stack+Developer;Passionate+Problem+Solver;JavaScript+%7C+React+%7C+Python+%7C+Java;Building+Digital+Experiences" alt="Typing SVG" />
+  </a>
 </div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/ro_fin_.12/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="instagram logo"  />
+<br />
+<!-- GitHub Stats Section -->
+<!-- GitHub Summary Stats Section with enhanced UI -->
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="50%" align="center">
+        <h3>GitHub Stats</h3>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Roffin7&show_icons=true&theme=tokyonight&hide_border=true" />
+      </td>
+      <td width="50%" align="center">
+        <h3>Contribution Streak</h3>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Roffin7&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br />
+<!-- Language Distribution -->
+<div align="center">
+  <h3>Most Used Languages</h3>
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roffin7&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+<!-- Tech Stack Section -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
+  My Tech Stack
+</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="33%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,angular,flutter&perline=4" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=python,java,nodejs,flask,spring,mongodb,mysql,postgres&perline=4" />
+        </div>
+      </td>
+      <td valign="top" width="33%">
+        <h3 align="center">Tools & Cloud</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=vscode,docker,firebase,git,azure,aws,androidstudio,figma&perline=4" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roffin7&theme=react-dark&bg_color=20232a&hide_border=true&line=6C63FF&color=6C63FF" width="100%" alt="activity graph">
+</div>
+<!-- GitHub Metrics -->
+<div align="center">
+  <h2>GitHub Metrics</h2>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Roffin7&theme=nord_dark" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Roffin7&theme=nord_dark" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Roffin7&theme=nord_dark" width="100%" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Roffin7&theme=nord_dark" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+<!-- Connect With Me Section -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+  Connect with Me
+</h2>
+<div align="center">
+  <a href="https://www.linkedin.com/in/roffin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://discordapp.com/users/roffin_90778" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
-  <a href="https://www.linkedin.com/in/roffin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/ro_fin_.12/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Roffin7/Roffin7/output/snake.svg" alt="Snake animation" />
-
-###
+<!-- Fun Elements Section -->
+<br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Roffin7/count.svg" alt="Visitor Count"/>
+  <p>Thanks for visiting my profile! Have a great day! 👨‍💻</p>
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,29&height=150&section=footer&animation=fadeIn" />
+</div>
